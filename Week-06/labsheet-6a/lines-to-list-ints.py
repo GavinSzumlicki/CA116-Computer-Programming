@@ -3,7 +3,7 @@
 s = input()
 a = []
 
-while n != "end":
+while s != "end":
   n = int(s)
   a.append(n)
   s = input()
