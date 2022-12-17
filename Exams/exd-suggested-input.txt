@@ -1,0 +1,10 @@
+1. p = t-e-ro-es--re-re-
+   w = the roses are red
+   
+2. If both the lengths are the same, then the program
+   checks for equality between p and w. If there is
+   a hyphen in p at position i then there doesn't have
+   to be a matching character in w at position i.
+   then the program prints yes or no depending on whether
+   or not both the inputs are matching with the exception
+   of character positions where there are hyphens.
