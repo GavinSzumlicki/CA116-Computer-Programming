@@ -1,3 +1,4 @@
+#Given a program and had to deduce what it was doing
 1. p = t-e-ro-es--re-re-
    w = the roses are red
    
